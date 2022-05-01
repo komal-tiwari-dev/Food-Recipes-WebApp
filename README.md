@@ -9,3 +9,10 @@ Features added:-
 5) Random Receipe Page which will give random dish every time clicked on the page.
 6) Signup page for signup new user.
 7) login page for login allready exist User.
+
+![Home Page] ("images/Home.png")
+![Receipe Details Page] ("images/ReceipeDetail.png")
+![Search Page] ("images/Search.png")
+![RandomReceipe Page] ("images/RandomReceipe.png")
+![Sign Up Page] ("images/SignUp.png")
+![Login Page] ("images/Login.png")
