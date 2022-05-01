@@ -1,0 +1,53 @@
+#container{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+#details{
+    background-image: url(../food.jpg);
+    background-size: cover;
+    background-color: #608e43;
+    color: white;
+    height: auto;
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+}
+#instructions{
+    background-image: url(../image2.jpg);
+    background-size: cover;
+    padding: 10px;
+    background-color: #608e43;
+    color: white;
+    height: auto;
+    width: 50%;
+    border-radius: 20px;
+}
+#border_div{
+    height: 40px;
+    background-color: #608e43;
+    text-align: center;
+    font-size: 150%;
+}
+#vidimg{
+    height: 400px;
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+#thumbnail{
+    height: 300px;
+    width: 320px;
+    margin-left: 100px
+}
+#yt{
+    margin-left: 100px;
+    height: 400px;
+    width: 600px;
+}
+#video{
+    height: 400px;
+    width: 700px;
+}

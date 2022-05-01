@@ -1,0 +1,27 @@
+#logo {
+  margin-left: 20px;
+  height: 30px;
+  width: 80px;
+}
+#header {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #608e43;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+#searchBox {
+  height: 30px;
+  width: 400px;
+  border: 0px;
+  border-radius: 5px;
+}
+#options {
+  margin-right: 20px;
+  display: flex;
+  gap: 50px;
+}

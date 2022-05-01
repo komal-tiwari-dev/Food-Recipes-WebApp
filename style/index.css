@@ -1,0 +1,41 @@
+#randomdata {
+  margin-top: 20px;
+  margin: center;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+}
+#randomdata > div {
+  /* margin-top: 20px; */
+  text-align: center;
+}
+#randomdata img {
+  height: 200px;
+  width: 248px;
+}
+#title_name {
+  font-size: 12px;
+  line-height: 14px;
+  height: 40px;
+  margin-top: 0px;
+}
+#randomdata button {
+  background-color: #608e43;
+  margin-top: 0px;
+  border: 0px;
+  width: 100%;
+  height: 30px;
+  font-size: 110%;
+  color: white;
+  font-weight: bold;
+}
+
+#randomdata button:hover{
+  background-color: white;
+  color: #608e43;
+}
+
+#details{
+  text-align: center;
+  font-weight: bold;
+}
