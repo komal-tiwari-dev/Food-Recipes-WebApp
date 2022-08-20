@@ -1,4 +1,4 @@
-# Food-Receipe-WebApp
+# Food-Recipes-WebApp
 Deployed Link:-https://komal-tiwari-dev.github.io/Food-Receipe-WebApp/
 
 Features added:-
